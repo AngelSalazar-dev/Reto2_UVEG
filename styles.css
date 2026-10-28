@@ -6,6 +6,11 @@ header {
     color: #2b087c;
 }
 
+span {
+    color: #2b087c;
+    font-weight: bold;
+}
+
 .seccion {
     font-size: 20px;
     color: #333;
