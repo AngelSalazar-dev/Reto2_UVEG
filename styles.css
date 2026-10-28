@@ -1,0 +1,94 @@
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2b087c;
+}
+
+.seccion {
+    font-size: 20px;
+    color: #333;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+#reasons {
+    font-size: 22px;
+    color: #666;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#requirements {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #2e200a;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+#image {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#background {
+    background-color: #1a1818;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+}
+#table-header {
+  background-color: #2b087c;
+  color: white;
+}
+th, td {
+  border: 1px solid #e5e7eb;
+  padding: 14px 12px;
+  text-align: left;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f5f3ff;
+}
+
+tbody tr:hover {
+  background-color: #e9e4ff;
+}
+
+body {
+     font-family: system-ui, Arial, sans-serif;
+    background-color: #fafafb;
+    line-height: 1.6;
+    padding-bottom: 20px;
+}
+
+#reasons-list {
+    list-style-type: disc;
+    margin-left: 40px;
+    color: #444;
+}
+
+#footer {
+    background-color: #2b087c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
